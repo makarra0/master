@@ -4,5 +4,16 @@
     "knex": "^1.0.3",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.15"
-  }
+  },
+  "name": "master",
+  "description": "",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
